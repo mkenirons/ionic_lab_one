@@ -1,0 +1,8 @@
+{
+  "name": "Ireland-app",
+  "app_id": "43b29641",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
